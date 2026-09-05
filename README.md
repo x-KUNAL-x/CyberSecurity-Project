@@ -45,9 +45,7 @@ personal-firewall/
 ├── iptables_rules.sh
 ├── requirements.txt
 ├── README.md
-│
-└── logs/
-    └── firewall.log
+
 ```
 
 > File names may vary depending on the final project implementation.
