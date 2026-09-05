@@ -38,14 +38,12 @@ The project uses **Scapy** for packet capture and analysis, **Tkinter** for the 
 
 ```text
 personal-firewall/
-│
-├── firewall.py
-├── gui.py
-├── rules.json
-├── iptables_rules.sh
-├── requirements.txt
-├── README.md
-
+├── firewall.py           # Core firewall engine using scapy
+├── rules.json            # Rule set: block IPs, ports, protocols
+├── logger.py             # Packet logging system
+├── iptables\_rules.sh     # Bash script for iptables enforcement
+├── gui.py                # Optional GUI for live monitoring
+└── README.md
 ```
 
 > File names may vary depending on the final project implementation.
