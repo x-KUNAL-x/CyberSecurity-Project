@@ -323,29 +323,6 @@ Screenshots can demonstrate:
 
 ---
 
-# 📁 Repository Structure
-
-```text
-personal-firewall/
-│
-├── firewall.py
-├── gui.py
-├── rules.json
-├── iptables_rules.sh
-├── requirements.txt
-├── README.md
-│
-├── logs/
-│   └── firewall.log
-│
-└── screenshots/
-    ├── firewall-gui.png
-    ├── packet-monitoring.png
-    └── firewall-rules.png
-```
-
----
-
 # 👨‍💻 Author
 
 **Kunal**
