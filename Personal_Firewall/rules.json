@@ -1,0 +1,5 @@
+{
+  "block_ips": ["192.168.1.100", "10.0.0.5"],
+  "block_ports": [22, 445],
+  "block_protocols": ["ICMP"]
+}
